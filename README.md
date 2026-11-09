@@ -3,16 +3,16 @@
 # Hello World 👋
 ---
 
-### 🌟 Halo! Aku adalah Gue
+### 🌟 About Me
 
 Swelamat datang di akun gwecj! Gw adalah **MANUKSIA** yang memiliki minat besar pada **teknologi komputer dan juga coding**.
 Disini gw suka eksplorasi dan menciptakan, terutama ketika melibatkan **JavaScript**.
 Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 
-* 🌍 **Lokasi:** **Indonesia** - Horeg Timur
-* 🎓 **Pendidikan:** **SMK**
-* 📖 **Status:** Pelajar
-* 💬 **Bahasa:** Indonesia, Jawa, English
+* 🌍 **Lokasi      :** **Indonesia** - Horeg Timur
+* 🎓 **Pendidikan  :** **SMK**
+* 📖 **Status      :** Pelajar
+* 💬 **Bahasa      :** Indonesia, Jawa, English
 
 ---
 
