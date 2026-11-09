@@ -15,11 +15,11 @@ Selamat datang di laman akun personalku! Namaku adalah **Aurel** yang memiliki m
 ---
 
 #### 🏃 Projek Yang Pernah Saya Kerjakan
->> Proyek Rill
+|| Proyek Rill
 * 🚦 **Proyek Lampu Merah 4 Arah** yang menggunakan **Arduino Uno** yang berbasis **C++**
 * 🍃 **Proyek Smart Environment** yang menggunakan **ESP-32** yang berbasis **C++** (Comming soon)
 
->> Proyek Digital
+|| Proyek Digital
 * 🤖 **Proyek Pengembangan Bot Discord** berbasis **JavaScript**
 * 💻 **Proyek Pengembangan Laman Pribadi** berbasis **HTML**
 
