@@ -5,9 +5,7 @@
 
 ### 🌟 About Me
 
-Swelamat datang di akun gwecj! Gw adalah **MANUKSIA** yang memiliki minat besar pada **teknologi komputer dan juga coding**.
-Disini gw suka eksplorasi dan menciptakan, terutama ketika melibatkan **JavaScript**.
-Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
+Selamat datang di laman akun personalku! Namaku adalah **Aurel** yang memiliki minat besar pada **teknologi komputer dan juga dunia coding**. Aku juga suka mengeksplorasi dan pembuatan projek baru, terutama yang mengedepankan tentang proses kreatif.
 
 * 🌍 **Lokasi      :** **Indonesia** - Horeg Timur
 * 🎓 **Pendidikan  :** **SMK**
@@ -16,10 +14,14 @@ Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 
 ---
 
-#### Tools
-* 🗄️ GitHub
-* 💻 VS Code
-* 🤖 Dan sedikit bantuan AI (**A**seli **I**nimah)
+#### 🏃 Projek Yang Pernah Saya Kerjakan
+>> Proyek Rill
+* 🚦 **Proyek Lampu Merah 4 Arah** yang menggunakan **Arduino Uno** yang berbasis **C++**
+* 🍃 **Proyek Smart Environment** yang menggunakan **ESP-32** yang berbasis **C++** (Comming soon)
+
+>> Proyek Digital
+* 🤖 **Proyek Pengembangan Bot Discord** berbasis **JavaScript**
+* 💻 **Proyek Pengembangan Laman Pribadi** berbasis **HTML**
 
 ---
 
